@@ -124,7 +124,7 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 TARGET_USES_MKE2FS := true
-TW_EXCLUDE_TWRPAPP := true
+TW_EXCLUDE_TWRPAPP := false
 TW_SUPPORT_INPUT_1_2_HAPTICS := true
 
 # Hack: prevent anti rollback
